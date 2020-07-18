@@ -1,15 +1,10 @@
 .button
 {
  text-align: center;
- margin-left: 0.8em;
-}
-.button1
-{
- text-align: center;
- margin-bottom: 0.8em;
+ margin-left: 1em;
 }
 .cContent{
-padding-left: 8%;
+  margin-right: 2em;
 }
 .inputText{
     border: 2px solid;

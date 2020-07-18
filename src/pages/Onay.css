@@ -1,0 +1,33 @@
+.cikis {
+
+    border-radius: 7px;
+    color: white;
+    background-color:red;
+    margin-right: 2em;
+}
+.verified
+{
+ text-align: center;
+ margin-left: 0.1em;
+ font-size: 7em;
+
+}
+.description{
+    text-align: center;
+    margin-left: 0.2em;
+    font-size: 1.5em;
+    margin-bottom: 0.8em;
+    font-weight: bolder;
+
+
+}
+.button16
+{
+ position: relative;
+ text-align: center;
+ margin-bottom: 0.8em;
+ left: -2%;
+ right: 1%;
+ top: 15%;
+ bottom: 5%;
+}
